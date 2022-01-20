@@ -150,7 +150,7 @@ header ul li:hover {
   display: flex;
   align-items: center;
   /* justify-content: center; */
-  background-image: url(/images/hero.png);
+  background-image: url(../images/hero.png);
   background-size: cover;
   /* background-position: center; */
   background-repeat: no-repeat;
